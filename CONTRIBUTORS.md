@@ -342,3 +342,8 @@
 - Place: St. Louis, Missouri, USA
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
+
+#### Name: [Richard Thomas](https://github.com/RichardThomasA)
+- Place: Kerala,India
+- Bio: Software Developer
+- GitHub:[RichardThomasA](https://github.com/RichardThomasA)
